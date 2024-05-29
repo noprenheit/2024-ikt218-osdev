@@ -1,4 +1,4 @@
-extern main
+extern kernel_main_c
 
 global _start
 
@@ -37,7 +37,7 @@ _start:
 	push ebx
 	push eax
 
-    call main ; Jump main function
+    call kernel_main_c ; Jump main function
 
 section .bss
 stack_bottom:

@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/libc/panic.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/panic.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/panic.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/libc/system.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/system.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/system.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/libc/string.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/string.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/string.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/libc/stdio.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/stdio.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/libc/stdio.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/common.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/common.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/common.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/monitor.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/monitor.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/monitor.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/gdt.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/gdt.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/gdt.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/idt.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/idt.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/idt.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/irq.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/irq.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/irq.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/isr.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/isr.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/isr.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/bin/nasm -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/isr_asm.asm.o /workspaces/2024-ikt218-osdev/src/9_vandrere/src/isr_asm.asm",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/isr_asm.asm"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/bin/nasm -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/descriptor_table.asm.o /workspaces/2024-ikt218-osdev/src/9_vandrere/src/descriptor_table.asm",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/descriptor_table.asm"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/bin/nasm -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/multiboot2.asm.o /workspaces/2024-ikt218-osdev/src/9_vandrere/src/multiboot2.asm",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/multiboot2.asm"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/kernel.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/kernel.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/kernel.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-g++ -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -g -Wno-unused-variable -Wno-unused-parameter -std=gnu++20 -o CMakeFiles/uiaos-kernel.dir/src/kernel.cpp.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/kernel.cpp",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/kernel.cpp"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/memory/malloc.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/memory/malloc.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/memory/malloc.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/memory/paging.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/memory/paging.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/memory/paging.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/memory/memutils.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/memory/memutils.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/memory/memutils.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/pit.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/pit.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/pit.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/input.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/input.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/input.c"
+},
+{
+  "directory": "/workspaces/2024-ikt218-osdev/build/9_vandrere",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2024-ikt218-osdev/src/9_vandrere/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/apps/song/song.c.o -c /workspaces/2024-ikt218-osdev/src/9_vandrere/src/apps/song/song.c",
+  "file": "/workspaces/2024-ikt218-osdev/src/9_vandrere/src/apps/song/song.c"
+}
+]
