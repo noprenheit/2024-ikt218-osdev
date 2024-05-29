@@ -1,6 +1,6 @@
 {
-    "cmake.buildDirectory": "${workspaceFolder}/build/9_vandrere",
-    "cmake.sourceDirectory": "${workspaceFolder}/src/9_vandrere",
+    "cmake.buildDirectory": "${workspaceFolder}/build/group_name",
+    "cmake.sourceDirectory": "${workspaceFolder}/src/group_name",
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "cstddef": "cpp",
