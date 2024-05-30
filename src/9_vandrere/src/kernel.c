@@ -54,8 +54,7 @@ int kernel_main_c(uint32_t magic, struct multiboot_info* mb_info_addr) {
 
     // Print a hello world message.
     printf("Hello World!\n");
-    printf("Group 9 was here\n\n")
-
+    printf("Group 9 was here!\n");
     // Call the C++ main function of the kernel.
     return kernel_main();
 }

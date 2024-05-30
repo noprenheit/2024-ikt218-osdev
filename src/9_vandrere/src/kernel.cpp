@@ -1,4 +1,3 @@
-
 extern "C"{
     #include "libc/system.h"
     #include "memory/memory.h"
@@ -104,7 +103,7 @@ int kernel_main(){
 
 
     Song* songs[] = {
-        //new Song({interstaller_theme, sizeof(interstaller_theme) / sizeof(Note)}),
+        new Song({interstaller_theme, sizeof(interstaller_theme) / sizeof(Note)}),
     };
     uint32_t n_songs = sizeof(songs) / sizeof(Song*);
 
@@ -117,7 +116,14 @@ int kernel_main(){
     }
 
     // Main loop
-    printf("Group 9\n");
+    printf("          _                        _                   \n");
+    printf("    _ __ (_) __   ____ _ _ __   __| |_ __ ___ _ __ ___ \n");
+    printf("   | '_ \\| | \\ \\ / / _` | '_ \\ / _` | '__/ _ \\ '__/ _ \\\n");
+    printf("   | | | | |  \\ V / (_| | | | | (_| | | |  __/ | |  __/\n");
+    printf("   |_| |_|_|   \\_/ \\__,_|_| |_|\\__,_|_|  \\___|_|  \\___|\n");
+    printf("                                                       \n");
+
+          
     while(true) {
         // Kernel main tasks
     }
